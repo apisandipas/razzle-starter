@@ -1,4 +1,4 @@
-# TallahasseeCreative.com - a playground for testing SSR concepts
+# razzle-starter - a playground for testing SSR concepts
 
 ## Proof of concept with batteries included.
 
