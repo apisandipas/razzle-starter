@@ -12,7 +12,7 @@
     "@loadable/component": "^5.9.0",
     "@loadable/server": "^5.9.0",
     "axios": "^0.18.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet-async": "^1.0.2",
